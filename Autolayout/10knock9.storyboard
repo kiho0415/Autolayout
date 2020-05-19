@@ -52,6 +52,7 @@
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
+                            <constraint firstItem="oo2-fK-1gd" firstAttribute="top" secondItem="JBs-rj-3rc" secondAttribute="top" id="3aG-Cm-u0y"/>
                             <constraint firstItem="Z94-SH-mMy" firstAttribute="top" secondItem="oo2-fK-1gd" secondAttribute="bottom" constant="8" id="6XP-mk-cGV"/>
                             <constraint firstItem="oo2-fK-1gd" firstAttribute="top" secondItem="dbR-KR-z0Q" secondAttribute="top" id="FXA-W5-sux"/>
                             <constraint firstItem="dbR-KR-z0Q" firstAttribute="trailing" secondItem="rii-qd-Zrh" secondAttribute="trailing" constant="25" id="Glk-b0-cek"/>
